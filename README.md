@@ -21,3 +21,9 @@ The objective of this case study is to apply advanced data analysis techniques u
 
 - Find Insight and prepare Insight document.
 
+## Summary Dashboard:
+![Screenshot 2024-07-30 211553](https://github.com/user-attachments/assets/e952ea82-2203-4ccb-8627-72bf268eb5f6)
+
+## Overview Dashboard:
+![Screenshot 2024-07-30 211637](https://github.com/user-attachments/assets/29f2682b-669e-4526-92f8-178dfc3e51a8)
+
